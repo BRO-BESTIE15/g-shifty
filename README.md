@@ -33,5 +33,4 @@ _Underdevlopment_
 
 ## Licence
 
-[LICENCE](LICENCE)
-
+[LICENSE](LICENSE)
